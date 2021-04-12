@@ -4,9 +4,11 @@ Terminal style food ordering system, non-actually usable but as an example on wh
 
 Notes:
 The administrator access account for this system is:
+```
 Username: john
 Password: wick
 *It provides access to admin privileges that normal user can't view or utilize
+```
 
 Contributed by:
 - Sammy
