@@ -3,8 +3,8 @@
 Terminal style food ordering system, non-actually usable but as an example on what we learnt in C++ classes.
 
 Notes:
-The administrator access account for this system is:
 ```
+Admin Account
 Username: john
 Password: wick
 *It provides access to admin privileges that normal user can't view or utilize
