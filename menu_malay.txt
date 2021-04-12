@@ -1,0 +1,40 @@
+Bandung Drink RM 3.00
+3.00
+Chendol Dessert RM 2.00
+2.00
+Grilled Pari Fish RM 6.00
+6.00
+Gulai Stew RM 6.00
+6.00
+Jala Bread RM 4.00
+4.00
+Janda Pulang Drink RM 2.00
+2.00
+Kuih Set RM 1.50
+1.50
+Lemang Bamboo Rice RM 6.00
+6.00
+Nasi Kerabu RM 6.50
+6.50
+Nasi Lemak RM 5.50
+5.50
+Pekasam RM 4.50
+4.50
+Percik Chicken RM 8.00
+8.00
+Pulut Sticky Rice RM 2.50
+2.50
+Rebus Noodles RM 4.00
+4.00
+Sambal Belacan Stew RM 7.00
+7.00
+Satey Set RM 5.00
+5.00
+Teh Limau RM 1.00
+1.00
+Teh Tongkat Ali RM 1.50
+1.50
+Tradisional Ketupat RM 3.00
+3.00
+Ulam Salad RM 3.50
+3.50

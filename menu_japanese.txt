@@ -1,0 +1,64 @@
+Anpanman's Anpan RM 5.00
+5
+Bento Set RM 10.40
+10.4
+Bonito Soup RM 4.50
+4.5
+Dango Set RM 6.70
+6.7
+Dorayaki RM 3.20
+3.2
+Dragonspring Sake RM 18.30
+18.3
+Fugu Sashimi Set RM 20.10
+20.1
+Grilled Unagi RM 7.80
+7.8
+Imperial Sushi Set RM 15.70
+15.7
+Kichi Kichi Omurice RM 14.70
+14.7
+Kombu Soup RM 6.40
+6.4
+Matcha Ice Cream RM 7.80
+7.8
+Melonpan Bread RM 5.30
+5.3
+Miso Soup RM 4.30
+4.3
+Nagasaki Castella RM 9.60
+9.6
+Okinawa Cold Soy Soba RM 11.50
+11.50
+Okonomiyaki RM 8.50
+8.50
+Onigiri Set RM 12.60
+12.60
+Oyakodon Bowl RM 10.30
+10.30
+Salibury Steak RM 14.50
+14.50
+Shoyu Ramen RM 16.40
+16.40
+Spiced Udon RM 11.20
+11.20
+Sugar Mochi Set RM 7.50
+7.50
+Takoyaki Set RM 5.60
+5.60
+Tamago Kake Gohan Set RM 8.50
+8.50
+Tamagoyaki RM 7.60
+7.60
+Tempura Set RM 12.40
+12.40
+Teppanyaki Chicken RM 14.70
+14.70
+Tradisional Curry Rice RM 12.70
+12.70
+Wagyu Grilled Beef RM 31.90
+31.90
+Wasabi Ice Cream RM 6.50
+6.50
+Yakisoba-pan Bread RM 8.10
+8.10

@@ -1,0 +1,124 @@
+Aglio e' Olio Pasta RM 10.00
+10
+Americano RM 7.50
+7.50
+Apple Pie RM 8.00
+8
+Arancini RM 10.00
+10
+BLT Sandwich RM 10.00
+10
+Baked Cheese Topped Potato RM 9.00
+9
+Banger and Mash RM 10.00
+10
+Beef Wellington RM 17.00
+17
+Biscuit and Gravy RM 6.00
+6
+Bolognaise Pasta RM 10.00
+10
+Borscht Soup RM 8.00
+8
+Bratwurst Sausages RM 10.00
+10
+Broiled and Grilled Asparagus RM 6.00
+6
+Butter Beer RM 5.00
+5
+Caesar Salad RM 7.50
+7.50
+Cappucino RM 7.50
+7.50
+Carbonara Pasta RM 10.00
+10
+Chicken Tikka Masala RM 12.00
+12
+Chipotle Guacamole RM 6.00
+6
+Chocolate Chip Cookie RM 3.50
+3.50
+Chocolate Fudge RM 4.00
+4
+Collared Greens RM 5.00
+5
+Cream Mashed Potato RM 6.00
+6
+Deviled Egg RM 3.50
+3.50
+Earl Grey Tea RM 7.50
+7.50
+Egg Benedict RM 8.00
+8
+Espresso RM 7.50
+7.50
+Fillet Mignon RM 20.00
+20
+Fish and Chips RM 15.00
+15
+Grilled Steak with Barbeque Sauce RM 17.00
+17
+Home Fries RM 7.50
+7.5
+Honey Pot Roast RM 14.00
+14
+Jellied Eels RM 12.00
+12
+Mac N' Cheese RM 10.00
+10
+Milk Latte RM 4.00
+4
+Mocha RM 7.50
+7.50
+Nachos RM 3.50
+3.50
+Neapolitan Pizza RM 10.00
+10
+New York Bagels RM 4.00
+4
+Nick Tohou's Garbage Plate RM 12.00
+12
+Ocean Beach Lasagne RM 12.00
+12.00
+PB and J Sandwich RM 4.50
+4.50
+Pecan Pie RM 5.00
+5.00
+Philadelphia Cheese Steak RM 10.00
+10
+Pie N' Mash RM 7.00
+7.00
+Pommes Fondant RM 6.00
+6.00
+Portuguese Tart RM 3.50
+3.50
+Pumpkin Pie RM 5.00
+5.00
+Ramsey Style Scrambled Egg RM 7.00
+7.00
+Ratatouille RM 10.00
+10.00
+Sauteed Butter Mushrooms RM 6.00
+6.00
+Seafood Paella RM 10.00
+10.00
+Sheperd's Pie RM 9.00
+9.00
+Smash Burger RM 10.00
+10.00
+Sparkling Soda RM 2.00
+2.00
+Sugar Donuts RM 3.00
+3.00
+Surstromming Fermented Fish RM 15.00
+15.00
+Swedish Meatballs RM 14.00
+14.00
+Tater Tots RM 10.00
+10.00
+Tradisional Bruschetta RM 9.00
+9.00
+Truffle Infused Risotto RM 10.00
+10.00
+Yorkshire Pudding RM 7.00
+7.00
