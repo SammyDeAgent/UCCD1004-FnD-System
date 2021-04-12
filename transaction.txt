@@ -1,0 +1,92 @@
+Transaction by user:
+sam
+Chao Zhou Popiah RM3.00
+Quantity: 14
+Sum of Batch Price: RM 42
+
+Bonito Soup RM 4.50
+Quantity: 3
+Sum of Batch Price: RM 13.5
+
+Total Payment: RM 55.5
+==========================END OF PURCHASE============================
+
+Transaction by user:
+meliodas
+Deviled Egg RM 3.50
+Quantity: 250
+Sum of Batch Price: RM 875
+
+Total Payment: RM 875
+==========================END OF PURCHASE============================
+
+Transaction by user: 
+jotaro
+Salibury Steak RM 14.50
+Quantity: 2
+Sum of Batch Price: RM 29
+
+Total Payment: RM 29
+==========================END OF PURCHASE============================
+
+Transaction by user:
+sam
+Lemang Bamboo Rice RM 6.00
+Quantity: 2
+Sum of Batch Price: RM 12
+
+Total Payment: RM 12
+==========================END OF PURCHASE============================
+
+Transaction by user:
+eren_yeager
+Tradisional Curry Rice RM 12.70
+Quantity: 3
+Sum of Batch Price: RM 38.1
+
+Pecan Pie RM 5.00
+Quantity: 5
+Sum of Batch Price: RM 25
+
+Collared Greens RM 5.00
+Quantity: 7
+Sum of Batch Price: RM 35
+
+Total Payment: RM 98.1
+==========================END OF PURCHASE============================
+
+Transaction by user:
+sam
+Kuih Set RM 1.50
+Quantity: 10
+Sum of Batch Price: RM 15
+
+Total Payment: RM 15
+==========================END OF PURCHASE============================
+
+Transaction by user:
+Sammy
+Okinawa Cold Soy Soba RM 11.50
+Quantity: 2
+Sum of Batch Price: RM 23
+
+Milk Soda RM 4.40
+Quantity: 2
+Sum of Batch Price: RM 8.8
+
+Total Payment: RM 31.8
+==========================END OF PURCHASE============================
+
+Transaction by user:
+Sammy
+Pie N' Mash RM 7.00
+Quantity: 1
+Sum of Batch Price: RM 7
+
+Earl Grey Tea RM 7.50
+Quantity: 1
+Sum of Batch Price: RM 7.5
+
+Total Payment: RM 14.5
+==========================END OF PURCHASE============================
+
