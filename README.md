@@ -1,5 +1,5 @@
 # UCCD1004 Terminal Food Ordering System
-"Fiederick and Deutsch Foods Incorparated Terms and Conditions 2019"
+"Fiederick and Deutsch Foods Incorparated Terms and Conditions 2019",
 Terminal style food ordering system, non-actually usable but as an example on what we learnt in C++ classes.
 
 Notes:
